@@ -19,3 +19,6 @@ Send a message, and it will be received on server.
 Now, try sending a message to another computer.
 Hint: use ip address
 
+
+Source:
+http://www.linuxhowtos.org/C_C++/socket.htm
