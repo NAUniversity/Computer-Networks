@@ -12,11 +12,11 @@ Choose any number between 2000 and 65535
 
 Example:
 
-$ server 51547
+$ ./server 51547
 
 Then open another terminal on local machine and run
 
-$ client localhost 51547
+$ ./client localhost 51547
 
 Send a message, and it will be received on server.
 
